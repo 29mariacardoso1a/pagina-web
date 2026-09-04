@@ -1,4 +1,5 @@
-* {
+* 
+{
     margin: 0;
     padding: 0;
 }
@@ -44,4 +45,12 @@ footer {
     background-color: #7e3e1c;
     padding: 15px 25px;
     color: #fff;
+}
+
+.cartao-interno {
+    position: relative;
+}
+
+.cartao-frente, .cartao-verso {
+    position: absolute;
 }

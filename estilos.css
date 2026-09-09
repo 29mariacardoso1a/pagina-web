@@ -45,8 +45,8 @@ section {
 
 .cartao {
     width: 260px;
-    height: 300px;
-    perspective: 1000px; /* Adicionado para criar o efeito 3D correto */
+    height: 400px; /* Aumentei de 300px para 400px */
+    perspective: 1000px;
 }
 
 .cartao-interno {
